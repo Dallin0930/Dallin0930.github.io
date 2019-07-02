@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class SalesPromotion {
+public class SalesPromotion {     //单种优惠方式类
     private String type;
     private String displayName;
     private List<String> relatedItems;

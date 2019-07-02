@@ -1,4 +1,4 @@
-public class Item {
+public class Item {         //单个菜信息
     private String id;
     private String name;
     private double price;
@@ -8,7 +8,7 @@ public class Item {
         this.name = name;
         this.price = price;
     }
-
+   
     public String getId() {
         return id;
     }
